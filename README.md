@@ -37,6 +37,7 @@ Note: Some of these apps cost money, so as an alternative to buying them outrigh
 | [Blender](https://www.blender.org) | FREE | 3D modeling application. |
 | [Calibre](https://github.com/kovidgoyal/calibre) | FREE | Calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. |
 | [CleanMyMac](https://cleanmymac.com) | $ | Storage cleaner and Virus Scanner. Can free up lots of space and keep you safe. |
+| [CrossOver](https://www.codeweavers.com/crossover) | $ | Run windows games and apps on MacOS. |
 | [CyberDuck](https://cyberduck.io) | FREE | FTP and remote file management application. |
 | [DaisyDisk](https://daisydiskapp.com) | $ | Visualizes all your storage space for easier cleanup. |
 | [DarkReader](https://darkreader.org) | FREE | Makes all websites have a dark theme. |
@@ -104,7 +105,7 @@ Note: Some of these apps cost money, so as an alternative to buying them outrigh
 
 ### Desktop and App Management
 
-- **Activate Spotlight for Searching** - To bring up a handy search interface that will let you find files on your Mac, just use Command + Space. Spotlight can do all kinds of things, from locating files to answering basic questions to solving math problems.
+- **Activate Spotlight for Searching** - To bring up a handy search interface that will let you find and open apps, files, search web, just use Command + Space. Spotlight can do all kinds of things, from locating files to answering basic questions to solving math problems.
 - **Swap Between Apps** - To switch between your open applications, press Command + Tab. Keep holding down the Command key and then press Tab to cycle through the open apps. Let go when the app you want is highlighted.
 - **Close Apps From App Switcher** - When you're in the Command + Tab view, press the Q key with command held down to close an open app.
 - **Hot Corners** - If you don't already use Hot Corners, they're worth checking out. You can set tasks that will happen when your mouse hovers in a specific corner, like launching Mission Control, showing the desktop, and more. Set them up in System Preferences > Mission Control > Hot Corners.
