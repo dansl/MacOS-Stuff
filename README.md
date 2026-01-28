@@ -105,7 +105,7 @@ Note: Some of these apps cost money, so as an alternative to buying them outrigh
 
 ### Desktop and App Management
 
-- **Activate Spotlight for Searching** - To bring up a handy search interface that will let you find and open apps, files, search web, just use Command + Space. Spotlight can do all kinds of things, from locating files to answering basic questions to solving math problems.
+- **Activate Spotlight for Searching** - Press Command + Spacebar to bring up a handy search interface that will let you find and open apps, files, search web, answer basic questions or solve math problems.
 - **Swap Between Apps** - To switch between your open applications, press Command + Tab. Keep holding down the Command key and then press Tab to cycle through the open apps. Let go when the app you want is highlighted.
 - **Close Apps From App Switcher** - When you're in the Command + Tab view, press the Q key with command held down to close an open app.
 - **Hot Corners** - If you don't already use Hot Corners, they're worth checking out. You can set tasks that will happen when your mouse hovers in a specific corner, like launching Mission Control, showing the desktop, and more. Set them up in System Preferences > Mission Control > Hot Corners.
