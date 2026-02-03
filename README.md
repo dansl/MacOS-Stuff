@@ -423,5 +423,6 @@ These are CLI based apps that make your termainal more efficient and more enjoya
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - zsh-autosuggestions is a plugin for zsh that provides auto-suggestions based on your command history.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - zsh-syntax-highlighting is a plugin for zsh that provides syntax highlighting for commands.
 - [PowerLevel10K](https://github.com/romkatv/powerlevel10k) - An awesome theme for ZSH.
+- [OhMyZSH](https://ohmyz.sh) - Another great option for themes and plugins for ZSH.
 
 Thanks for reading. [Follow me](https://bsky.app/profile/dansnull.bsky.social) for more!
